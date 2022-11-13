@@ -4,7 +4,7 @@ const Footer = () => {
   return (
         <div className="footer">
                 <div className="footer-section-1" >
-                    <img className="footer-img" src='/Task-Manager.png' alt=''/>
+                    <img className="footer-img" src='/task-manager2.png' alt=''/>
                     <p>We are not just another productivity tool. We help you connect to people, talk about experiences and it's all about social change.</p>
                     <p>Copyright ©2022. All Rights Reserved.</p>
                 </div>
