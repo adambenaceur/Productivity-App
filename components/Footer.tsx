@@ -4,8 +4,8 @@ const Footer = () => {
   return (
         <div className="footer">
                 <div className="footer-section-1" >
-                    <img className="footer-img" src='/new-astrano-logo.png' alt=''/>
-                    <p>We are not just another training program. We help you connect to people, talk about experiences and it's all about being human.</p>
+                    <img className="footer-img" src='/Task-Manager.png' alt=''/>
+                    <p>We are not just another productivity tool. We help you connect to people, talk about experiences and it's all about social change.</p>
                     <p>Copyright ©2022. All Rights Reserved.</p>
                 </div>
                     <div className="footer-section-2" >

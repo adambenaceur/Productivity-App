@@ -34,7 +34,7 @@ const Header = () => {
 
         <Link href='/'>     
             <a>
-                <Image src='/new-astrano-logo.png' alt='' className='header-logo' width='350px' height='75px' />
+                <Image src='/Task-Manager.png' alt='' className='header-logo' width='350px' height='75px' />
             </a>
         </Link>
         <div className='nav-links'>
