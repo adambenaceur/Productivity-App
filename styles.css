@@ -704,3 +704,9 @@
     justify-content:center;
     padding: 10%;
 }
+
+
+/*************************** DASHBOARD ************************/
+.dashboard-title {
+  padding:40px 10%;
+}

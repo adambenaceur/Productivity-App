@@ -48,7 +48,7 @@ const Header = () => {
                 ))}
             </ul>
         </div>
-      <Link href='/play'><button className='button'> Play <Image src='/play.svg' alt='' width='30px' height='30px'/> </button></Link> 
+      <Link href='/dashboard'><button className='button'> Play <Image src='/play.svg' alt='' width='30px' height='30px'/> </button></Link> 
     </div>
   )
 }

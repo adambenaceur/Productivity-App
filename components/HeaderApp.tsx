@@ -10,19 +10,19 @@ const HeaderApp = () => {
 
   const list = [
     {
-      id: "/Dashboard",
+      id: "/dashboard",
       title: 'Dashboard',
     },
     {
-      id: "/Habit-Tracker",
+      id: "/habit-tracker",
       title: 'Habit Tracker',
     },
     {
-      id: "/Calander",
+      id: "/calander",
       title: 'Calander',
     },
     {
-      id: "/To-do",
+      id: "/to-do",
       title: 'to-do list',
     },
     {
