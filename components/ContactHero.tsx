@@ -13,7 +13,7 @@ const ContactHero = () => {
             </li>
             <li className='contact-list'>
                 <img src='/email.svg' alt=''/>
-                <h4>admin@astrano.com</h4>    
+                <h4>admin@taskmanager.com</h4>    
             </li>
             <li className='contact-list'>
                 <img src='/phone.svg' alt=''/>
