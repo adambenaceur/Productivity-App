@@ -1,11 +1,9 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import Image from 'next/image'
 import Header from '../components/Header'
 import { useRouter } from 'next/router'
 import Hero from '../components/Hero'
 import Footer from '../components/Footer'
-import Portfolio from '../components/Portfolio'
 import Banner from '../components/Banner'
 import InfoBanner from '../components/InfoBanner'
 
@@ -23,7 +21,7 @@ const Home: NextPage = () => {
       </Head>
       <Header/>
       <Hero/>
-      <Portfolio/>
+      
       <InfoBanner/>
       <Banner/>
       <Footer/>
